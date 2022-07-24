@@ -1,4 +1,6 @@
-# GAME DEV
+# Flappy Bird
 
-YAHALLO!
+A simple flappy bird made using C++ only.
+
+ENJOY!
 
